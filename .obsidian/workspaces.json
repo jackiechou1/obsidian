@@ -1,0 +1,128 @@
+{
+  "workspaces": {
+    "微信读书": {
+      "main": {
+        "id": "c285896b893adc4d",
+        "type": "split",
+        "children": [
+          {
+            "id": "02a9d4bdc9d27288",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-weread",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3cae3cf0e055ff93",
+        "type": "split",
+        "children": [
+          {
+            "id": "fa52d2bdfef16b1e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "897c3dd04891d0c4",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "3952789b8b458e9f",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "1bad88663a7d0b35",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 160.5
+      },
+      "right": {
+        "id": "16e8e4e9f045e4fa",
+        "type": "split",
+        "children": [
+          {
+            "id": "ce8fb670e24948eb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7720aaa0076bf204",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "933e47bcd17057e4",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ba7d0605ffa91972",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "26e715c41250d43a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 228.5
+      },
+      "active": "02a9d4bdc9d27288"
+    }
+  },
+  "active": "微信读书"
+}
