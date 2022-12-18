@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "c285896b893adc4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "91cf2b8179b6b5f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14cb328c409ddb92",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "94b789c4999da12e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3cae3cf0e055ff93",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa52d2bdfef16b1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "897c3dd04891d0c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3952789b8b458e9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1bad88663a7d0b35",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 160.5
+  },
+  "right": {
+    "id": "16e8e4e9f045e4fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce8fb670e24948eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7720aaa0076bf204",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "933e47bcd17057e4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba7d0605ffa91972",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "26e715c41250d43a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100
+  },
+  "active": "94b789c4999da12e",
+  "lastOpenFiles": [
+    "Web-fronted/Vue.js/什么是嵌套路由？.md",
+    "Diary/2022-08-11.md",
+    "Diary/2022-8-7.md",
+    "Diary/EBP情绪改善-- 暂停实验室.md",
+    "Diary/HC.md",
+    "Web-fronted/组件案例.md",
+    "小lin/未命名.md",
+    "小lin/未命名 1.md",
+    "Diary/大疆前端.md",
+    "Diary/2022-8-27.md"
+  ]
+}
