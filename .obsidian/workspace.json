@@ -38,9 +38,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bc5dbb8896bc48d2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -156,7 +166,20 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "2d0826dd6a4c8fb7",
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-custom-frames:Open WeRead": false,
+      "remotely-save:Remotely Save": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "bc5dbb8896bc48d2",
   "lastOpenFiles": [
     "Diary/EBP情绪改善-- 暂停实验室.md",
     "Diary/HC.md",
