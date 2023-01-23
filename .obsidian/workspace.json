@@ -40,12 +40,14 @@
             }
           },
           {
-            "id": "bc5dbb8896bc48d2",
+            "id": "6ffd295a7b7f0c76",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "lol.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-1-13.md",
+                "file": "lol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-1-13.md",
+                "file": "lol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-1-13.md"
+                "file": "lol.md"
               }
             }
           }
@@ -179,8 +181,10 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "bc5dbb8896bc48d2",
+  "active": "6ffd295a7b7f0c76",
   "lastOpenFiles": [
+    "2023-1-13.md",
+    "lol.md",
     "Diary/EBP情绪改善-- 暂停实验室.md",
     "Diary/HC.md",
     "Web-fronted/Vue.js/什么是嵌套路由？.md",
@@ -188,8 +192,6 @@
     "Diary/2022-8-7.md",
     "Web-fronted/组件案例.md",
     "小lin/未命名.md",
-    "小lin/未命名 1.md",
-    "Diary/大疆前端.md",
-    "Diary/2022-8-27.md"
+    "小lin/未命名 1.md"
   ]
 }
