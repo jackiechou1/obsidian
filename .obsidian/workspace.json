@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2023-1-13.md",
+                "file": "Diary/lol.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2023-1-13.md",
+                "file": "Diary/lol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2023-1-13.md",
+                "file": "Diary/lol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2023-1-13.md"
+                "file": "Diary/lol.md"
               }
             }
           }
@@ -171,15 +171,15 @@
   },
   "active": "2d0826dd6a4c8fb7",
   "lastOpenFiles": [
-    "Diary/lol.md",
-    "Diary/2023-1-13.md",
     "Diary/EBP情绪改善-- 暂停实验室.md",
     "Diary/HC.md",
-    "Web-fronted/Vue.js/什么是嵌套路由？.md",
-    "Diary/2022-08-11.md",
+    "Diary/2023-1-13.md",
+    "Diary/大疆前端.md",
     "Diary/2022-8-7.md",
-    "Web-fronted/组件案例.md",
-    "小lin/未命名.md",
-    "小lin/未命名 1.md"
+    "Diary/2022-08-11.md",
+    "Diary/2022-8-15.md",
+    "Diary/2022-8-20.md",
+    "Diary/2022-8-26.md",
+    "Diary/2022-8-27.md"
   ]
 }
