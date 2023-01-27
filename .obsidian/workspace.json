@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "835274d287850393",
+        "id": "06aba6cccdfaba84",
         "type": "tabs",
         "children": [
           {
-            "id": "14cb328c409ddb92",
+            "id": "35e80d53202b03d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web-fronted/未命名.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web-fronted/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web-fronted/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web-fronted/未命名.md"
+              }
             }
           }
         ]
@@ -140,17 +148,17 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "14cb328c409ddb92",
+  "active": "35e80d53202b03d1",
   "lastOpenFiles": [
+    "Hc/hc.md",
+    "Web-fronted/未命名.md",
+    "Web-fronted/Vue.js/未命名.md",
     "Web-fronted/Vue.js/什么是嵌套路由？.md",
-    "Diary/2022-08-11.md",
-    "Diary/2022-8-7.md",
+    "Hc/大疆前端.md",
     "Diary/EBP情绪改善-- 暂停实验室.md",
-    "Diary/HC.md",
-    "Web-fronted/组件案例.md",
-    "小lin/未命名.md",
-    "小lin/未命名 1.md",
-    "Diary/大疆前端.md",
-    "Diary/2022-8-27.md"
+    "Diary/2023-1-25.md",
+    "Diary/2022-8-27.md",
+    "Diary/2023-1-13.md",
+    "Diary/lol.md"
   ]
 }
