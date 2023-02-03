@@ -11,8 +11,12 @@
             "id": "8bf4d6b1a54825e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1-30.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article/晚睡晚起算不算熬夜？如何科学熬夜？.md",
+                "file": "1-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article/晚睡晚起算不算熬夜？如何科学熬夜？.md",
+                "file": "1-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article/晚睡晚起算不算熬夜？如何科学熬夜？.md"
+                "file": "1-30.md"
               }
             }
           }
@@ -144,11 +148,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "897c3dd04891d0c4",
+  "active": "8bf4d6b1a54825e0",
   "lastOpenFiles": [
     "Diary/1-27.md",
     "Article/晚睡晚起算不算熬夜？如何科学熬夜？.md",
-    "未命名.md",
+    "1-30.md",
     "Hc/hc.md",
     "Web-fronted/Vue.js/未命名.md",
     "Web-fronted/Vue.js/什么是嵌套路由？.md",
