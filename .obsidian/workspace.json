@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7af232ff0f9bec93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,11 +161,11 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "8bf4d6b1a54825e0",
+  "active": "897c3dd04891d0c4",
   "lastOpenFiles": [
+    "1-30.md",
     "Diary/1-27.md",
     "Article/晚睡晚起算不算熬夜？如何科学熬夜？.md",
-    "1-30.md",
     "Hc/hc.md",
     "Web-fronted/Vue.js/未命名.md",
     "Web-fronted/Vue.js/什么是嵌套路由？.md",
