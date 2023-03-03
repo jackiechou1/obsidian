@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "8df592161a035de8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
             "id": "0f2af61bbab2c8d7",
             "type": "leaf",
             "state": {
@@ -56,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -174,18 +184,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "obsidian-custom-frames:Open WeRead": false,
       "remotely-save:Remotely Save": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "f49e11b21b20d92c",
+  "active": "8df592161a035de8",
   "lastOpenFiles": [
     "有价值的副业.md",
     "Article/一亩三分地--  研究生申请.md",
