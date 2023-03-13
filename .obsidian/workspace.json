@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c274f9fdc7172d48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "我的复盘/关于保底与底气.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce04dd007e7777d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "我的复盘/借势.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4d82a6b97b23d79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "我的复盘/技术栈学习.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不孝有三，无后为大的正解.md",
+                "file": "我的复盘/技术栈学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "不孝有三，无后为大的正解.md",
+                "file": "我的复盘/技术栈学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不孝有三，无后为大的正解.md"
+                "file": "我的复盘/技术栈学习.md"
               }
             }
           }
@@ -161,12 +197,15 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "4920a84161ce9031",
+  "active": "a4d82a6b97b23d79",
   "lastOpenFiles": [
+    "我的复盘/借势.md",
+    "我的复盘/技术栈学习.md",
+    "我的复盘/关于保底与底气.md",
+    "不孝有三，无后为大的正解.md",
     "Ins.md",
     "我的复盘/复盘.md",
     "我的复盘",
-    "不孝有三，无后为大的正解.md",
     "历史书籍推荐.md",
     "Article/一亩三分地--  研究生申请.md",
     "Diary/1-30.md",
