@@ -78,9 +78,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b8a18e87e2b58b14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "我的复盘/认识自己.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5d70b4b8f5228a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "我的复盘/3.13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "305618ca00289f80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "历史书籍推荐.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -146,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "我的复盘/复盘.md",
+                "file": "历史书籍推荐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "我的复盘/复盘.md",
+                "file": "历史书籍推荐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "我的复盘/复盘.md"
+                "file": "历史书籍推荐.md"
               }
             }
           }
@@ -209,15 +245,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7caea9d044b937d4",
+  "active": "305618ca00289f80",
   "lastOpenFiles": [
+    "我的复盘/2.12.md",
+    "我的复盘/3.13.md",
+    "我的复盘/认识自己.md",
     "我的复盘/前端.md",
+    "我的复盘/复盘.md",
     "我的复盘/技术栈学习.md",
     "我的复盘/借势.md",
     "我的复盘/关于保底与底气.md",
     "不孝有三，无后为大的正解.md",
     "Ins.md",
-    "我的复盘/复盘.md",
     "我的复盘",
     "历史书籍推荐.md",
     "Article/一亩三分地--  研究生申请.md",
