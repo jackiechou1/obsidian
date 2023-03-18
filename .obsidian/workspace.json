@@ -14,17 +14,8 @@
               "type": "custom-frames-weread",
               "state": {}
             }
-          },
-          {
-            "id": "08441069b1667aff",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-bilibili",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +155,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "08441069b1667aff",
+  "active": "10727fc2b741c71a",
   "lastOpenFiles": [
     "未命名.canvas",
     "Ins.md",
