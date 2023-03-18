@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a17105033840da20",
+        "id": "4c84dc9a7ea1a7fb",
         "type": "tabs",
         "children": [
           {
-            "id": "10727fc2b741c71a",
+            "id": "da3ac717fc904651",
             "type": "leaf",
             "state": {
-              "type": "custom-frames-weread",
+              "type": "empty",
               "state": {}
             }
           }
@@ -155,7 +155,7 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "10727fc2b741c71a",
+  "active": "da3ac717fc904651",
   "lastOpenFiles": [
     "未命名.canvas",
     "Ins.md",
