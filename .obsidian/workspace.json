@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "960de48a711b3feb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-3-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-3-18.md",
+                "file": "2023-3-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-3-18.md",
+                "file": "2023-3-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-3-18.md"
+                "file": "2023-3-22.md"
               }
             }
           }
@@ -162,10 +175,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "da3ac717fc904651",
+  "active": "960de48a711b3feb",
   "lastOpenFiles": [
-    "关于tech的方向.md",
     "2023-3-18.md",
+    "2023-3-22.md",
+    "关于tech的方向.md",
     "Hc/hc.md",
     "Hc/大疆前端.md",
     "Hc/敖天羽CV.md",
@@ -191,7 +205,6 @@
     "Article/曾国藩.md",
     "Article/滑雪入门.md",
     "Article/2023-2-07.md",
-    "Diary/1-27.md",
-    "Web-fronted/Vue.js/未命名.md"
+    "Diary/1-27.md"
   ]
 }
