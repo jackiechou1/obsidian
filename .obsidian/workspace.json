@@ -59,16 +59,36 @@
             "id": "cdf2d558f7e5ccff",
             "type": "leaf",
             "state": {
+              "type": "custom-frames-weread",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0d8b99e0b58e759",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "为啥不常用微博？.md",
+                "file": "成功学的危害——【单一化】“价值取向”和“人生追求”.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0b7e35bb05ef3b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "读书笔记-反脆弱.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "为啥不常用微博？.md",
+                "file": "读书笔记-反脆弱.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "为啥不常用微博？.md",
+                "file": "读书笔记-反脆弱.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "为啥不常用微博？.md"
+                "file": "读书笔记-反脆弱.md"
               }
             }
           },
@@ -220,14 +240,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cdf2d558f7e5ccff",
+  "active": "c0b7e35bb05ef3b1",
   "lastOpenFiles": [
+    "成功学的危害——【单一化】“价值取向”和“人生追求”.md",
+    "读书笔记-反脆弱.md",
+    "Linux.md",
     "什么是真正的兴趣爱好.md",
     "为啥不常用微博？.md",
     "如何系统学习.md",
     "多台电脑如何共享翻墙通道.md",
     "德鲁克谈自我管理.md",
-    "Linux.md",
     "2023-3-18.md",
     "Article/精致的利己主义者.md",
     "2023-3-22.md",
@@ -247,9 +269,7 @@
     "我的复盘/认识自己.md",
     "我的复盘/前端.md",
     "我的复盘/2.12.md",
-    "我的复盘/3.13.md",
     "我的复盘",
-    "Article/一亩三分地--  研究生申请.md",
     "Youtube"
   ]
 }
