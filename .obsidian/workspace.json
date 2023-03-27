@@ -86,9 +86,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f6421a7888d79bee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "读书笔记-反脆弱.md",
+                "file": "Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "读书笔记-反脆弱.md",
+                "file": "Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "读书笔记-反脆弱.md"
+                "file": "Linux.md"
               }
             }
           },
@@ -240,10 +252,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0b7e35bb05ef3b1",
+  "active": "f6421a7888d79bee",
   "lastOpenFiles": [
-    "成功学的危害——【单一化】“价值取向”和“人生追求”.md",
+    "1679925259772.png",
+    "博弈论入门.md",
+    "为什么独立思考这么难.md",
     "读书笔记-反脆弱.md",
+    "成功学的危害——【单一化】“价值取向”和“人生追求”.md",
     "Linux.md",
     "什么是真正的兴趣爱好.md",
     "为啥不常用微博？.md",
@@ -266,9 +281,6 @@
     "我的复盘/借势.md",
     "我的复盘/技术栈学习.md",
     "我的复盘/复盘.md",
-    "我的复盘/认识自己.md",
-    "我的复盘/前端.md",
-    "我的复盘/2.12.md",
     "我的复盘",
     "Youtube"
   ]
