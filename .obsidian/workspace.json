@@ -98,9 +98,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f74476808a634b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eafe87ba66d82fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -174,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux.md",
+                "file": "未命名 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux.md",
+                "file": "未命名 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux.md"
+                "file": "未命名 1.md"
               }
             }
           },
@@ -252,14 +276,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f6421a7888d79bee",
+  "active": "eafe87ba66d82fc3",
   "lastOpenFiles": [
+    "未命名.md",
+    "未命名 1.md",
+    "Linux.md",
     "1679925259772.png",
     "博弈论入门.md",
     "为什么独立思考这么难.md",
     "读书笔记-反脆弱.md",
     "成功学的危害——【单一化】“价值取向”和“人生追求”.md",
-    "Linux.md",
     "什么是真正的兴趣爱好.md",
     "为啥不常用微博？.md",
     "如何系统学习.md",
@@ -280,7 +306,6 @@
     "我的复盘/关于保底与底气.md",
     "我的复盘/借势.md",
     "我的复盘/技术栈学习.md",
-    "我的复盘/复盘.md",
     "我的复盘",
     "Youtube"
   ]
