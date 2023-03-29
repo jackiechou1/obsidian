@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "美剧推荐.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,33 +98,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8f74476808a634b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eafe87ba66d82fc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.md",
+                "file": "美剧推荐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.md",
+                "file": "美剧推荐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 1.md"
+                "file": "美剧推荐.md"
               }
             }
           },
@@ -276,10 +251,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eafe87ba66d82fc3",
+  "active": "da3ac717fc904651",
   "lastOpenFiles": [
     "未命名.md",
-    "未命名 1.md",
+    "美剧推荐.md",
     "Linux.md",
     "1679925259772.png",
     "博弈论入门.md",
