@@ -56,11 +56,44 @@
       "customCss": ""
     },
     {
-      "url": "https://www.bilibili.com/?spm_id_from=333.788.0.0",
-      "displayName": "Bilibili",
-      "icon": "bird",
+      "url": "https://github.com/",
+      "displayName": "Github",
+      "icon": "github",
       "hideOnMobile": true,
-      "addRibbonIcon": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://arxiv.org/",
+      "displayName": "Arxiv",
+      "icon": "send",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5",
+      "displayName": "Wikipedia",
+      "icon": "aperture",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": true,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": ""
+    },
+    {
+      "url": "https://twitter.com/",
+      "displayName": "Twitter",
+      "icon": "Twitter",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
       "openInCenter": true,
       "zoomLevel": 1,
       "forceIframe": false,
